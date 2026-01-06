@@ -3,11 +3,11 @@ module.exports.config = {
     name: "join",
     version: "1.0.1",
     hasPermssion: 2,
-    credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+    credits: "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐓𝐇𝐈𝐒 𝐆𝐑𝐎𝐔𝐏",
     description: "Join the Bot boxes are in",
     commandCategory: "System",
     usages: "",
-    cooldowns: 5
+    cooldowns: 1
 };
  module.exports.onLoad = () => {
   console.log(chalk.bold.hex("#00c300").bold("============ SUCCESFULLY LOADED THE JOIN COMMAND ============"));
