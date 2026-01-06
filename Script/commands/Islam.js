@@ -5,9 +5,9 @@ module.exports.config = {
   hasPermssion: 0,
   credits: "Islamick Chat",
   description: "prefix VEDIO",
-  commandCategory: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+  commandCategory: "𝐘𝐎𝐔𝐑 𝐁𝐁𝐘 𝐎𝐕𝐈",
   usages: "love10 vedio",
-  cooldowns: 5,
+  cooldowns: 1,
   dependencies: {
     "request":"",
     "fs-extra":"",
