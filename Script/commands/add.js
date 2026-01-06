@@ -8,7 +8,7 @@ module.exports.config = {
  description: "Send a random sad video",
  commandCategory: "media",
  usages: "",
- cooldowns: 5
+ cooldowns: 1
 };
 
 module.exports.run = async ({ api, event, args }) => {
